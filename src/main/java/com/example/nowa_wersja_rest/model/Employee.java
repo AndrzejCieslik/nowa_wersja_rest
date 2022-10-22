@@ -1,6 +1,7 @@
 package com.example.nowa_wersja_rest.model;
 
 import lombok.Data;
+import org.springframework.context.annotation.Scope;
 
 import javax.persistence.*;
 
